@@ -1,8 +1,9 @@
 {
   "name": "tdx-portal-assets",
-  "version": "sandbox-11-1",
-  "builtAt": "2026-08-06T13:34:30.020Z",
+  "version": "sandbox-12-3",
+  "builtAt": "2026-08-06T19:09:07.851Z",
   "files": [
+    "features/forms-conditional-logic.min.js",
     "features/forms-config.min.js",
     "features/forms-validators.min.js",
     "features/local-test-feature.min.css",
