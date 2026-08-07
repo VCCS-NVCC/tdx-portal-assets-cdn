@@ -1,7 +1,7 @@
 {
   "name": "tdx-portal-assets",
-  "version": "0.1.0",
-  "builtAt": "2026-06-10T16:13:25.305Z",
+  "version": "1.0.0",
+  "builtAt": "2026-08-07T11:56:31.314Z",
   "files": [
     "features/forms-config.min.js",
     "overrides/tdx-forms.min.css",
