@@ -1,9 +1,14 @@
 {
   "name": "tdx-portal-assets",
-  "version": "1.0.0",
-  "builtAt": "2026-08-07T11:56:31.314Z",
+  "version": "1.0.1",
+  "builtAt": "2026-08-07T12:17:28.828Z",
   "files": [
+    "features/forms-conditional-logic.min.js",
     "features/forms-config.min.js",
+    "features/forms-validators.min.js",
+    "features/local-test-feature.min.css",
+    "features/local-test-feature.min.js",
+    "features/tickets-hide-last-modified-by.min.js",
     "overrides/tdx-forms.min.css",
     "overrides/tdx-portal.min.css",
     "tdx-core.min.css",
