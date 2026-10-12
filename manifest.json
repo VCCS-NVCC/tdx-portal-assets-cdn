@@ -1,7 +1,7 @@
 {
   "name": "tdx-portal-assets",
-  "version": "1.2.0",
-  "builtAt": "2026-09-11T12:44:05.204Z",
+  "version": "1.2.1",
+  "builtAt": "2026-10-12T14:05:33.820Z",
   "files": [
     "features/approvals-config.min.js",
     "features/approvals-required-comments.min.js",
